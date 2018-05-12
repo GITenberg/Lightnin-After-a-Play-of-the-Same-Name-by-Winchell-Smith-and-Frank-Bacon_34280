@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36932'
     url: http://www.gutenberg.org/2009/agents/36932
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34280#Lightnin-After-a-Play-of-the-Same-Name-by-Winchell-Smith-and-Frank-Bacon
 gutenberg_issued: '2010-11-11'
 gutenberg_type: Text
 identifiers:
